@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98510a0a-968b-4fb5-b80a-848ee53a115c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/proxy/dynamicProxy/CuiHuaNiu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/dynamicProxy/DynProxyLawyer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticProxy/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/ProxyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticProxy/ProxyLawyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/ProxyLawyer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticProxy/SecondDogWang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/SecondDogWang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticProxy/impl/ILawSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/impl/ILawSuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/proxy/dynamicProxy/DynProxyLawyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/dynamicProxy/DynProxyLawyer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/proxy/dynamicProxy/DynProxyLawyer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="315">
+              <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#206#207#0" expanded="true" />
@@ -101,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/proxy/ProxyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="111" selection-start-line="15" selection-start-column="111" selection-end-line="15" selection-end-column="111" />
+            <state relative-caret-position="294">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#116#117#0" expanded="true" />
@@ -115,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="168">
+              <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -157,9 +150,9 @@
         <option value="$PROJECT_DIR$/src/staticProxy/SecondDogWang.java" />
         <option value="$PROJECT_DIR$/src/proxy/SecondDogWang.java" />
         <option value="$PROJECT_DIR$/src/proxy/dynamicProxy/CuiHuaNiu.java" />
-        <option value="$PROJECT_DIR$/src/proxy/dynamicProxy/DynProxyLawyer.java" />
         <option value="$PROJECT_DIR$/src/proxy/ProxyFactory.java" />
         <option value="$PROJECT_DIR$/src/mainApplication.java" />
+        <option value="$PROJECT_DIR$/src/proxy/dynamicProxy/DynProxyLawyer.java" />
       </list>
     </option>
   </component>
@@ -246,12 +239,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584268575237</updated>
-      <workItem from="1584268577954" duration="14498000" />
+      <workItem from="1584268577954" duration="15964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14498000" />
+    <option name="totallyTimeSpent" value="15964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="-7" width="1295" height="1415" extended-state="0" />
@@ -268,12 +261,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3996828" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3996828" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -309,21 +302,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxy/ProxyLawyer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/proxy/SecondDogWang.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -350,20 +328,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/ProxyLawyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/mainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="168">
+          <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="702" column="58" lean-forward="true" selection-start-line="702" selection-start-column="58" selection-end-line="702" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/proxy/ProxyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="111" selection-start-line="15" selection-start-column="111" selection-end-line="15" selection-end-column="111" />
+        <state relative-caret-position="294">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
@@ -374,8 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/proxy/dynamicProxy/DynProxyLawyer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="315">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#206#207#0" expanded="true" />
