@@ -1,4 +1,4 @@
-package staticProxy.impl;
+package proxy.impl;
 
 public interface ILawSuit {
     void submit(String proof); //提起诉讼

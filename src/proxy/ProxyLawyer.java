@@ -1,6 +1,6 @@
-package staticProxy;
+package proxy;
 
-import staticProxy.impl.ILawSuit;
+import proxy.impl.ILawSuit;
 
 public class ProxyLawyer implements ILawSuit {
     ILawSuit plaintiff;//持有要求代理的哪个对象

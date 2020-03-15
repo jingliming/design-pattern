@@ -1,6 +1,6 @@
-package staticProxy;
+package proxy;
 
-import staticProxy.impl.ILawSuit;
+import proxy.impl.ILawSuit;
 
 public class SecondDogWang implements ILawSuit {
     @Override
